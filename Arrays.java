@@ -22,7 +22,7 @@ public class Arrays {
 			java.util.Arrays.sort(row);
 			
 			for(int x : row) {
-				System.out.println(x + " ");
+				System.out.println(x + ": " + " ");
 			}
 		}
 
